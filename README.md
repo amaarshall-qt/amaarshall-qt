@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amaarshall Yaswankar
 - 👀 I’m interested in developing stuffs
-- 🌱 I’m currently learning learning react
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate with techies
 - 📫 How to reach me: 
      * LinkedIn profile: https://www.linkedin.com/in/amaarshall-yaswankar-k-b3b33a145/
